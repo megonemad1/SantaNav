@@ -28,8 +28,11 @@ MonoBehaviour:
     shoulders, you pull him to his three good feet and help him limp to a clearing
     for the medivac you have called. The air ambulance arrives but with only the
     pilot in attendance you need to administer the antivenom on the flight to the
-    hospital.  Use the medicine bottle to fill up your syringes with the antidote,
-    the sink can be used to poor unwanted medicine away. Once you have the right
-    dosage you will have healed Donner! "
+    hospital. Annoyingly, the syringes you have on hand are both too big and don't
+    have any other measurement to judge the unit size. Donner only needs 1 unit of
+    antidote, any more and it could make him worse off! Use the medicine bottle to
+    fill up your syringes with the antidote, the drain can be used to poor unwanted
+    medicine away. Once you have the correct dosage you can inject Donner to heal
+    him!"
   link: https://megonemad1.github.io/cureall/
   answer: snow

@@ -22,8 +22,9 @@ MonoBehaviour:
     you see Prancer is tied up with a thick chain that has been padlocked shut. 
     The only trace the Elves were there, are their muddy footprints left in a trail
     leading to a small trap door, so there is no way of getting the code from them!
-    Get the right numbers to unlock the padlock by trying different combinations,
-    you will be shown how many in the sequence you have gotten correct. But be carful,
-    too many entries will reset the padlock code and you will have to start over\u2026.  "
+    Get the right numbers to unlock the padlock by trying different combinations.
+    To check and try your selected number click on the keyhole symbol. You will be
+    shown how many in the sequence you have gotten correct. But be carful, too many
+    entries will reset the padlock code and you will have to start over...."
   link: https://megonemad1.github.io/LockAndKey/
   answer: Snowdrop

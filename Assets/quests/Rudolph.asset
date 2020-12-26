@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Icon: {fileID: 1946632136602638395, guid: 5ab9e9ce1f73f044fbca0cf308c86af4, type: 3}
   Profile: {fileID: 1946632136602638395, guid: 5ab9e9ce1f73f044fbca0cf308c86af4, type: 3}
-  text: "The Naughty elves have really gone and surpassed themselves this time! They
-    have not only abandoned poor Rudolph in North Korea, but they have left him standing
-    on a Landmine\u2026eek! Of course your bomb disposal knowledge is limited, so
-    it is very lucky that the elves managed to swipe the defusal instructions from
-    a passing soldier before they deserted Rudolph to his fate. You can see that
-    you need to enter a cancellation code but unfortunately the instructions are
-    in Korean. As you approach Rudolph you hear him singing \u201CI will Survive\u201D
+  text: "PDF Page: 3. The Naughty elves have really gone and surpassed themselves
+    this time! They have not only abandoned poor Rudolph in North Korea, but they
+    have left him standing on a Landmine\u2026eek! Of course your bomb disposal knowledge
+    is limited, so it is very lucky that the elves managed to swipe the defusal instructions
+    from a passing soldier before they deserted Rudolph to his fate. You can see
+    that you need to enter a cancellation code but unfortunately the instructions
+    are in Korean. As you approach Rudolph you hear him singing \u201CI will Survive\u201D
     his number one song of choice. Reassuring Rudolf, you get to work at decoding
     the instructions and saving Rudolph from the horror that could await!"
   link: 

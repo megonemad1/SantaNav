@@ -14,18 +14,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Icon: {fileID: 7106270521593844916, guid: 5ab9e9ce1f73f044fbca0cf308c86af4, type: 3}
   Profile: {fileID: 7106270521593844916, guid: 5ab9e9ce1f73f044fbca0cf308c86af4, type: 3}
-  text: "After quite a bumpy reindeer ride, you arrive in Alaska only to find that
-    Dasher has been locked up by a shopkeeper for aiding and abetting a group of
-    young delinquents (the naughty elves at work again!) The shop keeper will let
-    Dasher go without pressing charges as she only brought the group to his shop,
-    but only if all the damaged stock is paid for in full! You agree to pay, however
-    a short while after leaving you realise Father Christmas will be expecting a
-    reimbursement claim form to be filled out, checking your receipt you realise
-    that it only states the items generically, which will not be good enough for
-    the expense request. Going to the shop\u2019s website you look through their
-    stock to find out what items you had to compensate to work out what they were.
-    Annoyingly your card payment was processed in your own currency, which also complicates
-    matters!  When you know the three specific items purchased, enter your answer
-    in the following space seporated order:Laptops Homeware Furniture"
+  text: "PDF Page: 4. After quite a bumpy reindeer ride, you arrive in Alaska only
+    to find that Dasher has been locked up by a shopkeeper for aiding and abetting
+    a group of young delinquents (the naughty elves at work again!) The shop keeper
+    will let Dasher go without pressing charges as she only brought the group to
+    his shop, but only if all the damaged stock is paid for in full! You agree to
+    pay, however a short while after leaving you realise Father Christmas will be
+    expecting a reimbursement claim form to be filled out, checking your receipt
+    you realise that it only states the items generically, which will not be good
+    enough for the expense request. Going to the shop\u2019s website you look through
+    their stock to find out what items you had to compensate to work out what they
+    were. Annoyingly your card payment was processed in your own currency, which
+    also complicates matters!  When you know the three specific items purchased,
+    enter your answer in the following space seporated order:Laptops Homeware Furniture"
   link: 
   answer: DELL XPS Bosch Dishwasher Frome Loveseat

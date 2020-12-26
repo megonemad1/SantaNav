@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Icon: {fileID: -6198619453142245574, guid: 5ab9e9ce1f73f044fbca0cf308c86af4, type: 3}
   Profile: {fileID: -6198619453142245574, guid: 5ab9e9ce1f73f044fbca0cf308c86af4, type: 3}
-  text: "You arrive in Cape Town and get to your hotel. After grabbing a quick bite
-    to eat you check the Santa-Nav but it seems to have gone on the fritz! Tracking
-    Cupid down is going to be tough! To help you with your hunt you seek out the
-    local elves for assistance. \u201CThey might have seen the Naughty elves or Cupid
-    and could lend a hand\u201D. Starting at your hotel you find Bazar, who has been
-    spreading Christmas cheer with his Festive Joy Blaster. As luck would have it,
-    he saw the naughty elves gallivanting through the streets.  Use Google Maps to
-    start your search to find out the name of the street, where you will discover
-    Cupid."
+  text: "PDF Page: 10.You arrive in Cape Town and get to your hotel. After grabbing
+    a quick bite to eat you check the Santa-Nav but it seems to have gone on the
+    fritz! Tracking Cupid down is going to be tough! To help you with your hunt you
+    seek out the local elves for assistance. \u201CThey might have seen the Naughty
+    elves or Cupid and could lend a hand\u201D. Starting at your hotel you find Bazar,
+    who has been spreading Christmas cheer with his Festive Joy Blaster. As luck
+    would have it, he saw the naughty elves gallivanting through the streets.  Use
+    Google Maps to start your search to find out the name of the street, where you
+    will discover Cupid."
   link: 
   answer: Longmarket St

@@ -14,25 +14,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Icon: {fileID: -1339644225212328980, guid: 5ab9e9ce1f73f044fbca0cf308c86af4, type: 3}
   Profile: {fileID: -1339644225212328980, guid: 5ab9e9ce1f73f044fbca0cf308c86af4, type: 3}
-  text: "Cleaning & Stacking Dishes Touching down in Greenland you check Santa Nav,
-    which points to a Michelin Star restaurant. \u201Cthis can't be good\u201D you
-    think to yourself. You head to the restaurant, stepping inside you flag down
-    a waiter to ask if they have seen a reindeer nearby (hoping immensely that no
-    mischief has taken place in this very expensive establishment).  The waiter's
-    expression soon turns angry and he ushers you to a side room where you are curtly
-    told to wait for the restaurant manager. The Manager appears with a very stern
-    expression and explains that a Reindeer has indeed been on the premises along
-    with a group of delinquents who started a food fight jumping on their customers
-    tables and smashing plates. The group of yobs managed to scamper before they
-    could detain them. The Reindeer however has been put to work in the kitchens
-    to make up for all the mess and destruction by cleaning the plates. You offer
-    to help to get the job done faster and he leads you through to the pot wash area
-    where you can only just make out the antlers of Vixen behind a huge stack of
-    dirty plates. Looking up at you Vixen\u2019s demeanour changes from complete
-    hopelessness to delight at seeing you. So, you roll up your sleeves and get stuck
-    in! Stack the plates from the first station to the last. You can only put smaller
-    plates on top of bigger ones, so as not to break them! Once all the plates are
-    moved to the last station you will get the secret code to convince the chef to
-    let you and Vixen leave. "
+  text: "Touching down in Greenland you check Santa Nav, which points to a Michelin
+    Star restaurant. \u201Cthis can't be good\u201D you think to yourself. You head
+    to the restaurant, stepping inside you flag down a waiter to ask if they have
+    seen a reindeer nearby (hoping immensely that no mischief has taken place in
+    this very expensive establishment).  The waiter's expression soon turns angry
+    and he ushers you to a side room where you are curtly told to wait for the restaurant
+    manager. The Manager appears with a very stern expression and explains that a
+    Reindeer has indeed been on the premises along with a group of delinquents who
+    started a food fight jumping on their customers tables and smashing plates. The
+    group of yobs managed to scamper before they could detain them. The Reindeer
+    however has been put to work in the kitchens to make up for all the mess and
+    destruction by cleaning the plates. You offer to help to get the job done faster
+    and he leads you through to the pot wash area where you can only just make out
+    the antlers of Vixen behind a huge stack of dirty plates. Looking up at you Vixen\u2019s
+    demeanour changes from complete hopelessness to delight at seeing you. So, you
+    roll up your sleeves and get stuck in! Stack the plates from the first station
+    to the last. You can only put smaller plates on top of bigger ones, so as not
+    to break them! Once all the plates are moved to the last station you will get
+    the secret code to convince the chef to let you and Vixen leave. "
   link: https://megonemad1.github.io/dishes/
   answer: baubles
