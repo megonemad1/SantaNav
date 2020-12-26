@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59eb5c84776af3a47aabb9c70fb08e22, type: 3}
+  m_Name: Dancer
+  m_EditorClassIdentifier: 
+  Icon: {fileID: -4043801161739006553, guid: 5ab9e9ce1f73f044fbca0cf308c86af4, type: 3}
+  Profile: {fileID: -4043801161739006553, guid: 5ab9e9ce1f73f044fbca0cf308c86af4, type: 3}
+  text: "Landing in Honduras you begin your search for Dancer. Spotting a local shop
+    you approach the attendant to ask if they have heard of anything out of the ordinary
+    happening. As luck would have it, the shop assistant had just served someone
+    who was delighted in telling of their recent trip to the Cop\xE1n Ruins, where
+    they had seen the most curious of creatures trapped in one of the ancient temples
+    making a terrible racket to get out. They had relayed that people were trying
+    to help the poor beast however without an ancient key to open the temple door
+    there was no way to help it escape. With that knowledge in hand you head to the
+    ruins and begin your search for the missing key! "
+  link: https://youtu.be/Gf9FVG2EYPY
+  answer: christmas magic activate this key

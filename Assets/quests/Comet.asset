@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59eb5c84776af3a47aabb9c70fb08e22, type: 3}
+  m_Name: Comet
+  m_EditorClassIdentifier: 
+  Icon: {fileID: -3453536626499887794, guid: 5ab9e9ce1f73f044fbca0cf308c86af4, type: 3}
+  Profile: {fileID: -3453536626499887794, guid: 5ab9e9ce1f73f044fbca0cf308c86af4, type: 3}
+  text: 'The Santa-Nav has led you to a remote part of Russia, you start to get a
+    sinking feeling that this reindeer retrieval will not be straightforward at all.
+    The longer you follow the directions the clearer it becomes; your destination
+    is the Kursk Nuclear Plant! The armed guards on the gate were certainly friendlier
+    than you imagined and directed you through to the control centre, it is there
+    that you see Comet, and the predicament he is in! The reindeer is stuck inside
+    the reactor room and can only be let out once all protocols have been followed. 
+    In order to free Comet, someone needs to enter the same commands in the control
+    centre as the reactor room. It is extremely dangerous and could potentially cause
+    a nuclear meltdown if done incorrectly. looking around the room you see that
+    all the Russian workers have made a hasty retreat, leaving Comets only chance
+    for escape in your hands! Follow the control patten that will come through on
+    your controller, once you have completed each of the sequences you will get the
+    code to release comet. '
+  link: 
+  answer: password

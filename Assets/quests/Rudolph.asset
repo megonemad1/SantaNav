@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59eb5c84776af3a47aabb9c70fb08e22, type: 3}
+  m_Name: Rudolph
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 1946632136602638395, guid: 5ab9e9ce1f73f044fbca0cf308c86af4, type: 3}
+  Profile: {fileID: 1946632136602638395, guid: 5ab9e9ce1f73f044fbca0cf308c86af4, type: 3}
+  text: "The Naughty elves have really gone and surpassed themselves this time! They
+    have not only abandoned poor Rudolph in North Korea, but they have left him standing
+    on a Landmine\u2026eek! Of course your bomb disposal knowledge is limited, so
+    it is very lucky that the elves managed to swipe the defusal instructions from
+    a passing soldier before they deserted Rudolph to his fate. You can see that
+    you need to enter a cancellation code but unfortunately the instructions are
+    in Korean. As you approach Rudolph you hear him singing \u201CI will Survive\u201D
+    his number one song of choice. Reassuring Rudolf, you get to work at decoding
+    the instructions and saving Rudolph from the horror that could await!"
+  link: 
+  answer: no-kaboom

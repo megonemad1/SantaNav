@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59eb5c84776af3a47aabb9c70fb08e22, type: 3}
+  m_Name: Donner
+  m_EditorClassIdentifier: 
+  Icon: {fileID: -800859730519907743, guid: 5ab9e9ce1f73f044fbca0cf308c86af4, type: 3}
+  Profile: {fileID: -800859730519907743, guid: 5ab9e9ce1f73f044fbca0cf308c86af4, type: 3}
+  text: "The Santa Nav leads  you to the depths of Styx State Forest in Tasmania,
+    who knows what the naughty elves were doing this deep in the wilderness. Following
+    the trail, you find Donner collapsed on the side of the path crying out in pain.
+    Looking Donner over you see that there is a nasty bite on his leg! Getting closer
+    to inspect the wound, you see movement out the corner of your eye. It\u2019s
+    a Snake! Realising what has happened you know time is of the essence when it
+    comes to snake bites. You quickly tie one of your shoelaces above the wound to
+    slow down the venom's effect. \u201CAt least I\u2019m here to help and you're
+    not in that scene from your favourite film, crashing about blind locked in a
+    trailer with a deadly snake stuck in the middle of the desert \u201D you say
+    jokingly to try and lighten the severity of the situation. Grabbing Donner's
+    shoulders, you pull him to his three good feet and help him limp to a clearing
+    for the medivac you have called. The air ambulance arrives but with only the
+    pilot in attendance you need to administer the antivenom on the flight to the
+    hospital.  Use the medicine bottle to fill up your syringes with the antidote,
+    the sink can be used to poor unwanted medicine away. Once you have the right
+    dosage you will have healed Donner! "
+  link: 
+  answer: password
