@@ -3038,7 +3038,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: -40, y: -40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &892675714
 MonoBehaviour:
@@ -4671,20 +4671,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "The Naughty Elves World Wide Rampage \r\n \r\nSeason\u2019s greetings
-    my festive friends, we have called upon you for your assistance as there is a
-    potential disaster afoot. The north pole has been raided by some naughty elves
-    who have stolen and destroyed many Christmas gifts as well as taking Father Christmas\u2019s
-    reindeer for a joy ride. Having had their fun they have left each of the reindeer
-    stranded and lost, can you help locate them in time for Father Christmas to make
-    his rounds?\r\nOn this journey all you will need are a pair of scissors, and
-    your detective skills! \r\nThere must be a way to find out where each of the
-    reindeer have been taken, Father Christmas mentioned that he once used a Santa
-    Nav when the reindeer were young and would wander off, but because the grotto
-    is in such a mess you will have to tidy up to see if you can find it. After righting
-    Father Christmas\u2019 desk, picking up all the broken toys and gathering the
-    vast number of letters scattered on the floor you start work on the bookshelf
-    that has been pulled down. (books in order to find the URL to world map)\r\n"
+  m_text: Welcome to Father Christmas' Santa-Nav. This device will help you locate
+    any Reindeer that may have gone astray! On the Map you will see the reindeer
+    locations, select the reindeer you would like to track.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4711,7 +4700,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 26.95
+  m_fontSize: 49.4
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
