@@ -25,6 +25,7 @@ MonoBehaviour:
     the expense request. Going to the shop\u2019s website you look through their
     stock to find out what items you had to compensate to work out what they were.
     Annoyingly your card payment was processed in your own currency, which also complicates
-    matters!"
+    matters!  When you know the three specific items purchased, enter your answer
+    in the following space seporated order:Laptops Homeware Furniture"
   link: 
   answer: DELL XPS Bosch Dishwasher Frome Loveseat
