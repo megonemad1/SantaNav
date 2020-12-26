@@ -44,7 +44,7 @@ public class MenuManager : MonoBehaviour
     }
     public void check(string answer)
     {
-        if (quest.answer == answer)
+        if (quest.answer.ToLower() == answer.ToLower())
         {
             onCorrect.Invoke(quest);
         }
